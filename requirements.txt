@@ -3,3 +3,8 @@ yfinance
 streamlit
 altair
 Image
+matplotlib
+pandas
+numpy
+base64
+seaborn
