@@ -11,6 +11,8 @@ st.write('''
 # DNA Nucleotide Count Web Application
 
   This application counts the nucleotide composition of query DNA
+   Practising Basic Web Spplication - Part - II
+   Shreshtha Singh
    ***      
          ''')
 
